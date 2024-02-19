@@ -2,3 +2,4 @@ pipenv
 flask
 flask_restplus
 werkzeug==0.16.1
+markupsafe
