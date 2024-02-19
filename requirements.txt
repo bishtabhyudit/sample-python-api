@@ -1,4 +1,4 @@
 pipenv
 flask
 flask_restplus
-werkzeug
+werkzeug==0.16.1
